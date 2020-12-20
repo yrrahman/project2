@@ -1,0 +1,60 @@
+#t{
+    width: 104px;
+    height: 88px;
+}
+#product{
+    color: orange;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+}
+#a{
+    width: 300px;
+    height:270px;
+    align-self: center;
+}
+#b{
+    width: 300px;
+    height:270px;
+      align-self: center;
+  }
+  #c{
+    width: 300px;
+    height:270px;
+      align-self: center;
+  }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(161, 161, 165);
+    border-radius: 5px;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+#laptop{
+    margin-bottom: 50px;
+}
+.ab{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.abc{
+    box-shadow: 5px 5px 10px gray;
+    padding-left: 65px;
+    border-radius: 60px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+#pale{
+    width:20%;
+    height: 50%;
+}
+.abc{
+    box-shadow: 5px 5px 10px gray;
+    padding-left: 65px;
+    border-radius: 60px;
+}
